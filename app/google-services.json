@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27068992135",
+    "firebase_url": "https://emergencyride-7561d.firebaseio.com",
+    "project_id": "emergencyride-7561d",
+    "storage_bucket": "emergencyride-7561d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27068992135:android:acb569ab3b264300d68622",
+        "android_client_info": {
+          "package_name": "com.example.emergencyride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27068992135-7e9gemgcklr9ecd306d4e1ofr93gtm7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emergencyride",
+            "certificate_hash": "12a9fe7196382c9affc7b4f8c04295558a4ad771"
+          }
+        },
+        {
+          "client_id": "27068992135-74v3c1u0afkhui3n1p9al3bf1sl3ld03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvI-8mH6G-U8kU_4It8sOaqLheYaRx2Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27068992135-74v3c1u0afkhui3n1p9al3bf1sl3ld03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
